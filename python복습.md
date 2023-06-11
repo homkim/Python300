@@ -141,7 +141,7 @@ ret1 = mysum(3,4)
 import mymod             mymod.hap(3,4)
 from mymod import hap    hap(3,4)
 from mymod import *      hap(3,4)
-import mymod mm          mm.hap(3,4)
+import mymod as mm       mm.hap(3,4)
 ```
 
 # 파이썬 패키지

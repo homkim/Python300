@@ -1,2 +1,0 @@
-
-print("Mary's cosmetics")
